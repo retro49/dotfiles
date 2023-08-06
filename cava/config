@@ -1,0 +1,7 @@
+[general]
+bar_width=0.01
+bar_spacing=0
+
+[color]
+foreground="#a83231"
+
